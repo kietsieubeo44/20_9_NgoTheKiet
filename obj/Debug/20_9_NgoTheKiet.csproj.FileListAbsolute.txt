@@ -1,0 +1,10 @@
+D:\.net\20_9_NgoTheKiet\bin\Debug\20_9_NgoTheKiet.exe.config
+D:\.net\20_9_NgoTheKiet\bin\Debug\20_9_NgoTheKiet.exe
+D:\.net\20_9_NgoTheKiet\bin\Debug\20_9_NgoTheKiet.pdb
+D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.csproj.AssemblyReference.cache
+D:\.net\20_9_NgoTheKiet\obj\Debug\_20_9_NgoTheKiet.Properties.Resources.resources
+D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.csproj.GenerateResource.cache
+D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.csproj.CoreCompileInputs.cache
+D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.exe
+D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.pdb
+D:\.net\20_9_NgoTheKiet\obj\Debug\_20_9_NgoTheKiet.FormBaiTap1.resources
