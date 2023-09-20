@@ -93,11 +93,12 @@
             // txtYourName
             // 
             this.txtYourName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtYourName.Cursor = System.Windows.Forms.Cursors.No;
+            this.txtYourName.Cursor = System.Windows.Forms.Cursors.WaitCursor;
             this.txtYourName.Location = new System.Drawing.Point(199, 33);
             this.txtYourName.Name = "txtYourName";
             this.txtYourName.Size = new System.Drawing.Size(317, 28);
             this.txtYourName.TabIndex = 0;
+            this.txtYourName.UseWaitCursor = true;
             this.txtYourName.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // txtYear

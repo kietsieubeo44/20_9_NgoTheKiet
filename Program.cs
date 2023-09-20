@@ -16,7 +16,8 @@ namespace _20_9_NgoTheKiet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormBaiTap1());
+            //Application.Run(new FormBaiTap1());
+            Application.Run(new FormBaiTap2());
         }
     }
 }

@@ -52,10 +52,22 @@
     <Compile Include="FormBaiTap1.Designer.cs">
       <DependentUpon>FormBaiTap1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormBaiTap2.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FormBaiTap2.Designer.cs">
+      <DependentUpon>FormBaiTap2.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormBaiTap1.resx">
       <DependentUpon>FormBaiTap1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaiTap2.resx">
+      <DependentUpon>FormBaiTap2.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

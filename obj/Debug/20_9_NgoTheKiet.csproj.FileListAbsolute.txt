@@ -8,3 +8,7 @@ D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.csproj.CoreCompileInputs.cache
 D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.exe
 D:\.net\20_9_NgoTheKiet\obj\Debug\20_9_NgoTheKiet.pdb
 D:\.net\20_9_NgoTheKiet\obj\Debug\_20_9_NgoTheKiet.FormBaiTap1.resources
+D:\.net\20_9_NgoTheKiet\obj\Debug\_20_9_NgoTheKiet.FormBaiTap2.resources
+D:\.net\20_9_NgoTheKiet\bin\Debug\FormBaiTap2.resx
+D:\.net\20_9_NgoTheKiet\bin\Debug\FormBaiTap2.cs
+D:\.net\20_9_NgoTheKiet\bin\Debug\FormBaiTap2.Designer.cs
